@@ -1,0 +1,11 @@
+/frontend/.env
+/server/.env
+
+/server/blogging-website-b3f42-firebase-adminsdk-fbsvc-a6756cb1c9.json
+
+/node_modules
+
+/frontend/node_modules
+/server/node_modules
+
+/server/requests.rest
