@@ -43,3 +43,7 @@ Each user has control over their content, and all actions are secured with moder
 | JSON Web Token (JWT) | Access control and user authorization |
 
 ---
+
+### 📹 Demo Video  
+[Click here to watch the video](https://drive.google.com/file/d/1bPkYi9W8iczj6sMDS2LSZhTqimrrrJVp/view?usp=drive_link)
+
